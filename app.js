@@ -1,3 +1,3 @@
 const amIFat = false;
-let something;
+const something;
 console.log(something);
